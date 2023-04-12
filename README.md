@@ -25,5 +25,7 @@ You can reference [the official documentation](https://learn.microsoft.com/en-us
 ## Deploy
 This add-in is baesd on the new Office web model. If you want to deploy it in your company, you must first host it somewhere. For example, you can host it on Azure Storage [by following this guide](https://learn.microsoft.com/en-us/office/dev/add-ins/publish/publish-add-in-vs-code).
 
+Once you have hosted the add-in, you can publish in different ways, as explained [in the official documentation](https://learn.microsoft.com/en-us/office/dev/add-ins/publish/publish).
+
 ## Learn more
 This project is described in details on the [Modern Work App Consult blog](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/a-better-way-to-identify-external-users-in-an-outlook-mail/ba-p/3793131).
